@@ -16,7 +16,7 @@ Life](https://rustwasm.github.io/book/game-of-life/introduction.html) tutorial
 in Rust and WebAssembly. The frontend is served as a
 [NextJS](https://nextjs.org/) app with TypeScript and Tailwind.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Frust-wasm)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Qda1TD)
 
 ## ✨ Features
 
