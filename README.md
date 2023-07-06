@@ -6,7 +6,7 @@ tags:
   - rust
   - next
   - typescript
-  - tailwindcss
+  - Chakra-UI
 ---
 
 # WebAssembly Rust
@@ -24,7 +24,7 @@ in Rust and WebAssembly. The frontend is served as a
 - WASM
 - TypeScript
 - NextJS
-- Tailwind
+- Chakra-UI
 
 ## 💁‍♀️ How to use
 
@@ -33,6 +33,3 @@ in Rust and WebAssembly. The frontend is served as a
 - Install deps with `yarn`
 - Run app in development `yarn dev`
 
-## 📝 Notes
-
-This starter implements part of the official [Rust WASM tutorial](https://rustwasm.github.io/book/game-of-life/introduction.html).
